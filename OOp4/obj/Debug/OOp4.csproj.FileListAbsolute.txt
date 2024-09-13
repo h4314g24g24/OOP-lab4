@@ -1,0 +1,10 @@
+D:\dinaxy\OOp4\OOp4\bin\Debug\OOp4.exe.config
+D:\dinaxy\OOp4\OOp4\bin\Debug\OOp4.exe
+D:\dinaxy\OOp4\OOp4\bin\Debug\OOp4.pdb
+D:\dinaxy\OOp4\OOp4\obj\Debug\OOp4.csproj.AssemblyReference.cache
+D:\dinaxy\OOp4\OOp4\obj\Debug\OOp4.Form1.resources
+D:\dinaxy\OOp4\OOp4\obj\Debug\OOp4.Properties.Resources.resources
+D:\dinaxy\OOp4\OOp4\obj\Debug\OOp4.csproj.GenerateResource.cache
+D:\dinaxy\OOp4\OOp4\obj\Debug\OOp4.csproj.CoreCompileInputs.cache
+D:\dinaxy\OOp4\OOp4\obj\Debug\OOp4.exe
+D:\dinaxy\OOp4\OOp4\obj\Debug\OOp4.pdb
